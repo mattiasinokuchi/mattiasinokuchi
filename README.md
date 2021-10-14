@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Mattias Inokuchi
-- 👀 I’m interested in learning Svelte and Serverless
+- 👀 I’m learning SvelteKit and PostgreSQL
 - 📫 You can reach me on https://8-b.site
 
 <!---
