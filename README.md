@@ -1,5 +1,5 @@
 👀 I’m learning:
-  - Fundamental web development
+  - Fundamentals of web development
   - SvelteKit
   - PostgreSQL
 
