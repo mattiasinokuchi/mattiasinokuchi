@@ -1,4 +1,7 @@
-- 👀 I’m learning fundamental web development, SvelteKit and PostgreSQL
+👀 I’m learning:
+  - Fundamental web development
+  - SvelteKit
+  - PostgreSQL
 
 <!---
 mattiasinokuchi/mattiasinokuchi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
