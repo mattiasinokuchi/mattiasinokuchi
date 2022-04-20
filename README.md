@@ -1,7 +1,5 @@
 👀 I’m learning:
   - Web development
-  - SvelteKit
-  - PostgreSQL
 
 <!---
 mattiasinokuchi/mattiasinokuchi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
