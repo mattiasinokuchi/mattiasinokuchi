@@ -1,5 +1,4 @@
-👀 I’m learning:
-  - Web development
+Not much going on here nowdays...
 
 <!---
 mattiasinokuchi/mattiasinokuchi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
